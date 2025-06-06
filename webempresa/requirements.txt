@@ -1,6 +1,6 @@
 asgiref==3.2.3
 certifi==2024.7.4
-Django==4.2.18
+Django==4.2.22
 django-ckeditor==5.9.0
 django-js-asset==1.2.2
 easy-thumbnails==2.7
